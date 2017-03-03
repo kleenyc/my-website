@@ -2,5 +2,7 @@ body {
 	background-color: #FBE9E7;
 	font-family: "Lucida Console", monospace;
 	color: #4E342E;
+	border: 2px solid blue;
+	font-size: 12px;
 }
 
